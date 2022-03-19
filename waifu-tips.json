@@ -1,0 +1,13 @@
+{
+	"mouseover": [{
+		"selector": "#live2d",
+		"text": ["hentai！", "Hentai！"]
+	}, {
+		"selector": "#waifu-tool .fa-comment",
+		"text": ["z"]
+
+	}, {
+		"date": "12/20-12/31",
+		"text": "这几天是<span>圣诞节</span>，hentai～"
+	}]
+}
